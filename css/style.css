@@ -1,14 +1,26 @@
 .header{
     background-color:  #e2e1df;
 }
-.imgae-card img{
+.card-image img{
     height: 300px;
     width: auto;
 }
 .container-fluid img{
-    height: 40px;
+    height: 30px;
     width: auto;
 }
+
+.product-list{
+    border: 0;
+}
+h3{
+    color: orange;
+}
+span{
+    color:orange;
+}
+
+/* ========women-card-group===== */
 .penguin-card img{
     height: 300px;
     width: auto;
@@ -23,19 +35,12 @@
     border: 0;
     background-color: white;
 }
-.baner-photo{
-    height: 100px;
-    width: 100px;
-}
-.imgae-card img{
-    width: auto;
-}
-
+/* =======about-section====== */
 .shoping-image img{
     height: 180px;
     width: auto;
 }
-.btn-warning{
+.btn-style{
    background-color:#a4bc46;
    border:0;
    border-radius: 0.5em;
@@ -45,21 +50,13 @@
     height: 50px;
     width: 50px;
 }
-#perfect{
-    border: 1px solid green;
-}
 .info-text{
     padding-left: 50px;
 }
-h3{
-    color: orange;
-}
-span{
-    color:orange;
-}
-.product-list{
-    border: 0;
-}
+
+
+/* ==========contact-section============ */
+
 .contact{
     text-align: center;
 }
@@ -72,6 +69,9 @@ span{
     border:0px;
     padding: 20px 40px;
 }
+
+
+/* =========footer-section========== */
 footer{
     text-align: center;
     padding: 20px;
